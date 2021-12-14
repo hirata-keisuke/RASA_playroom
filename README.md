@@ -2,6 +2,9 @@
 使い方
 =====
 
+イメージを作る
+`docker image build -t python:rasa`
+
 コンテナを立てる  
 `docker container run -dit -v RASA:/RASA --rm --name rasa_room python:rasa`
 
