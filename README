@@ -1,7 +1,0 @@
-#使い方
-docker container run -dit -v RASA:/RASA --rm --name rasa_room python:rasa
-
-docker container exec -it rasa_room bash
-
-# cd RASA
-# rasa [command]
