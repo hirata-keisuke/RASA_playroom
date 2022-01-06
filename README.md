@@ -2,7 +2,7 @@
 使い方
 =====
 
-イメージを作る
+イメージを作る  
 `docker image build -t python:rasa`
 
 コンテナを立てる  
